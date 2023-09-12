@@ -3,7 +3,7 @@
 Métodos de Array -> Vamos usar o Vercel para o deploy desse site.
 
 <h4 align="center"> 
-	🏁  Game - Métodos de Array 🚀 Finalizado...  🏁
+	🏁   Métodos de Array 🚀 Finalizado...  🏁
 	Link: https://library-lemon.vercel.app/
 </h4>
 
